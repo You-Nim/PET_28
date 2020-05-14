@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+"http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd">
+<!-- Generated 2020?~5??3?? ?U??2:50:17 by Hibernate Tools 3.5.0.Final -->
+<hibernate-mapping>
+<!--     <class name="pet.member.register.model.PetMembers" table="PETMEMBERS"> -->
+<!--         <id name="memberId" type="int"> -->
+<!--             <column name="MEMBERID" /> -->
+<!--             <generator class="assigned" /> -->
+<!--         </id> -->
+<!--         <property name="email" type="java.lang.String"> -->
+<!--             <column name="EMAIL" /> -->
+<!--         </property> -->
+<!--         <property name="password" type="java.lang.String"> -->
+<!--             <column name="PASSWORD" /> -->
+<!--         </property> -->
+<!--         <property name="username" type="java.lang.String"> -->
+<!--             <column name="USERNAME" /> -->
+<!--         </property> -->
+<!--         <property name="gender" type="java.lang.String"> -->
+<!--             <column name="GENDER" /> -->
+<!--         </property> -->
+<!--         <property name="bday" type="java.sql.Date"> -->
+<!--             <column name="BDAY" /> -->
+<!--         </property> -->
+<!--         <property name="age" type="int"> -->
+<!--             <column name="AGE" /> -->
+<!--         </property> -->
+<!--         <property name="address" type="java.lang.String"> -->
+<!--             <column name="ADDRESS" /> -->
+<!--         </property> -->
+<!--         <property name="phone" type="java.lang.String"> -->
+<!--             <column name="PHONE" /> -->
+<!--         </property> -->
+<!--         <property name="petType" type="java.lang.String"> -->
+<!--             <column name="PETTYPE" /> -->
+<!--         </property> -->
+<!--         <property name="memberImage" type="java.sql.Blob"> -->
+<!--             <column name="MEMBERIMAGE" /> -->
+<!--         </property> -->
+<!--         <property name="fileName" type="java.lang.String"> -->
+<!--             <column name="FILENAME" /> -->
+<!--         </property> -->
+<!--         <property name="registerTime" type="java.sql.Timestamp"> -->
+<!--             <column name="REGISTERTIME" /> -->
+<!--         </property> -->
+<!--     </class> -->
+</hibernate-mapping>
